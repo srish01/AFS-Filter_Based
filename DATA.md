@@ -1,0 +1,139 @@
+# Dataset Information
+- [credit-approval](data/clean/credit-approval.csv) 
+  - Samples = 690
+  - Features = 17
+- [conn-bench-sonar-mines-rocks](data/clean/conn-bench-sonar-mines-rocks.csv) 
+  - Samples = 208
+  - Features = 62
+- [statlog-australian-credit](data/clean/statlog-australian-credit.csv) 
+  - Samples = 690
+  - Features = 16
+- [ionosphere](data/clean/ionosphere.csv) 
+  - Samples = 351
+  - Features = 35
+- [bank](data/clean/bank.csv) 
+  - Samples = 4521
+  - Features = 18
+- [oocytes_trisopterus_nucleus_2f](data/clean/oocytes_trisopterus_nucleus_2f.csv) 
+  - Samples = 912
+  - Features = 27
+- [ringnorm](data/clean/ringnorm.csv) 
+  - Samples = 7400
+  - Features = 22
+- [hepatitis](data/clean/hepatitis.csv) 
+  - Samples = 155
+  - Features = 21
+- [planning](data/clean/planning.csv) 
+  - Samples = 182
+  - Features = 14
+- [breast-cancer-wisc](data/clean/breast-cancer-wisc.csv) 
+  - Samples = 699
+  - Features = 11
+- [balloons](data/clean/balloons.csv) 
+  - Samples = 16
+  - Features = 6
+- [magic](data/clean/magic.csv) 
+  - Samples = 19020
+  - Features = 12
+- [acute-nephritis](data/clean/acute-nephritis.csv) 
+  - Samples = 120
+  - Features = 8
+- [statlog-german-credit](data/clean/statlog-german-credit.csv) 
+  - Samples = 1000
+  - Features = 26
+- [molec-biol-promoter](data/clean/molec-biol-promoter.csv) 
+  - Samples = 106
+  - Features = 59
+- [acute-inflammation](data/clean/acute-inflammation.csv) 
+  - Samples = 120
+  - Features = 8
+- [breast-cancer-wisc-diag](data/clean/breast-cancer-wisc-diag.csv) 
+  - Samples = 569
+  - Features = 32
+- [miniboone](data/clean/miniboone.csv) 
+  - Samples = 130064
+  - Features = 52
+- [pittsburg-bridges-T-OR-D](data/clean/pittsburg-bridges-T-OR-D.csv) 
+  - Samples = 102
+  - Features = 9
+- [statlog-heart](data/clean/statlog-heart.csv) 
+  - Samples = 270
+  - Features = 15
+- [ozone](data/clean/ozone.csv) 
+  - Samples = 2536
+  - Features = 74
+- [spambase](data/clean/spambase.csv) 
+  - Samples = 4601
+  - Features = 59
+- [trains](data/clean/trains.csv) 
+  - Samples = 10
+  - Features = 31
+- [parkinsons](data/clean/parkinsons.csv) 
+  - Samples = 195
+  - Features = 24
+- [tic-tac-toe](data/clean/tic-tac-toe.csv) 
+  - Samples = 958
+  - Features = 11
+- [heart-hungarian](data/clean/heart-hungarian.csv) 
+  - Samples = 294
+  - Features = 14
+- [mammographic](data/clean/mammographic.csv) 
+  - Samples = 961
+  - Features = 7
+- [breast-cancer-wisc-prog](data/clean/breast-cancer-wisc-prog.csv) 
+  - Samples = 198
+  - Features = 35
+- [echocardiogram](data/clean/echocardiogram.csv) 
+  - Samples = 131
+  - Features = 12
+- [connect-4](data/clean/connect-4.csv) 
+  - Samples = 67557
+  - Features = 44
+- [breast-cancer](data/clean/breast-cancer.csv) 
+  - Samples = 286
+  - Features = 11
+- [congressional-voting](data/clean/congressional-voting.csv) 
+  - Samples = 435
+  - Features = 18
+- [titanic](data/clean/titanic.csv) 
+  - Samples = 2201
+  - Features = 5
+- [blood](data/clean/blood.csv) 
+  - Samples = 748
+  - Features = 6
+- [oocytes_merluccius_nucleus_4d](data/clean/oocytes_merluccius_nucleus_4d.csv) 
+  - Samples = 1022
+  - Features = 43
+- [pima](data/clean/pima.csv) 
+  - Samples = 768
+  - Features = 10
+- [musk-1](data/clean/musk-1.csv) 
+  - Samples = 476
+  - Features = 168
+- [fertility](data/clean/fertility.csv) 
+  - Samples = 100
+  - Features = 11
+- [ilpd-indian-liver](data/clean/ilpd-indian-liver.csv) 
+  - Samples = 583
+  - Features = 11
+- [musk-2](data/clean/musk-2.csv) 
+  - Samples = 6598
+  - Features = 168
+- [cylinder-bands](data/clean/cylinder-bands.csv) 
+  - Samples = 512
+  - Features = 37
+- [mushroom](data/clean/mushroom.csv) 
+  - Samples = 8124
+  - Features = 23
+- [chess-krvkp](data/clean/chess-krvkp.csv) 
+  - Samples = 3196
+  - Features = 38
+- [vertebral-column-2clases](data/clean/vertebral-column-2clases.csv) 
+  - Samples = 310
+  - Features = 8
+- [haberman-survival](data/clean/haberman-survival.csv) 
+  - Samples = 306
+  - Features = 5
+- [twonorm](data/clean/twonorm.csv) 
+  - Samples = 7400
+  - Features = 22
