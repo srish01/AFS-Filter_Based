@@ -1,0 +1,5 @@
+numpy>=1.18,<=1.19.3
+pandas>=1.1
+rich>=9.3
+git+https://github.com/rpgolota/poisoning
+git+https://github.com/jundongl/scikit-feature
