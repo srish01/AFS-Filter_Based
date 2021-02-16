@@ -1,4 +1,4 @@
-# AFS-InfoTheory
+# AFS-FilterBased
 
 
 ## Preparing the Data 
